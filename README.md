@@ -12,6 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fjdks&show_icons=true" />
 </picture>
 
+
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
 <!--
 **fjdks/fjdks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
