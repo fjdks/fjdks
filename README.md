@@ -9,7 +9,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fjdks"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=fjdks&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fjdks&show_icons=true&cache_seconds=60" />
 </picture>
 
 
@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+https://github.com/fjdks/self_study/tree/main/Algorithm/BOJ
