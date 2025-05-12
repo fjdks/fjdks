@@ -10,7 +10,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=fjdks"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=fjdks&show_icons=true&cache_seconds=60" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fjdks/self_study&show_icons=true&cache_seconds=60" />
   </picture>
 </div>
 
